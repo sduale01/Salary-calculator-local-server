@@ -1,0 +1,24 @@
+{
+  "name": "Salary-calculator-local-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sduale01/Salary-calculator-local-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sduale01/Salary-calculator-local-server/issues"
+  },
+  "homepage": "https://github.com/sduale01/Salary-calculator-local-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
