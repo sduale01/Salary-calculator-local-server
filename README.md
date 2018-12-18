@@ -1,1 +1,0 @@
-# Salary-calculator-local-server
